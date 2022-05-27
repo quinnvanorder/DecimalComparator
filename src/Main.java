@@ -7,6 +7,6 @@ Otherwise, return false.
  */
 public class Main {
     public static void main(String[] args) {
-
+        System.out.println(DecimalComparator.areEqualByThreeDecimalPlaces(1.23423565, 1.234543435));
     }
 }
